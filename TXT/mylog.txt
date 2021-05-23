@@ -117,3 +117,5 @@ ZCZC W08 30 L07 Demo related Week08
 ZCZC W08 20 L05 GSGS Related
 ZCZC W08 40 L01 SCELE related
 ZCZC W08 35 L03 GitHub related
+ZCZC W09 120 L00 General log
+ZCZC W09 80 L02 ZOOM related
