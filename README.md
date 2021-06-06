@@ -12,4 +12,6 @@ Muhamad Fauzi Ridwan - 1906351070 - Sistem Operasi A
 - [Week 07](./w07.md)
 - [Week 08](./w08.md)
 - [Week 09](./w09.md)
+
+# Tips for the next class OS212
 - [Week 10](./w10.md)
